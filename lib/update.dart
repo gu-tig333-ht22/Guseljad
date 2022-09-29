@@ -1,10 +1,6 @@
-import 'dart:async';
-
 import 'package:flutter/material.dart';
 import 'package:nyttprojektlen/data_fetcher.dart';
 import 'package:nyttprojektlen/task.dart';
-import 'package:nyttprojektlen/taskpage.dart';
-
 import 'home.dart';
 
 class update extends StatefulWidget {

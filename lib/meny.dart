@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:nyttprojektlen/startknappar.dart';
 import '../home.dart';
 import '../textruta.dart';
 import 'data_fetcher.dart';
